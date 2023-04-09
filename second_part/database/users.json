@@ -1,0 +1,37 @@
+[
+  {
+    "fullname": "Albert Einstein",
+    "email": "albert@gmail.com",
+    "phone": "+380971111111",
+    "delivery_method": "SMS",
+    "delivered": ""
+  },
+  {
+    "fullname": "Steve Martin",
+    "email": "steve@gmail.com",
+    "phone": "+380972222222",
+    "delivery_method": "email",
+    "delivered": ""
+  },
+  {
+    "fullname": "Morgan Freeman",
+    "email": "freeman@gmail.com",
+    "phone": "+380973333333",
+    "delivery_method": "SMS",
+    "delivered": ""
+  },
+  {
+    "fullname": "Sandra Bullock",
+    "email": "sandra@gmail.com",
+    "phone": "+380974444444",
+    "delivery_method": "email",
+    "delivered": ""
+  },
+  {
+    "fullname": "Ryan Reynolds",
+    "email": "reynolds@gmail.com",
+    "phone": "+380975555555",
+    "delivery_method": "SMS",
+    "delivered": ""
+  }
+]
